@@ -2,6 +2,10 @@
 
 **Canard** is an app developed for **MLSC's flagship event** to track user performance, provide real-time announcements, and enhance event engagement.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c9d4ba99-6169-4dbb-a31b-9a990cbb54b7" height="600px">
+</div>
+
 ## ⭑ Features ⭑
 × **Real-Time Performance Tracking:** Percentage indicators update dynamically via WebSockets.  
 × **Live Announcements & Notifications:** Stay updated instantly.  
