@@ -1,16 +1,30 @@
-# app
+# ⌁ Canard - MLSC Flagship Event App ⌁
 
-A new Flutter project.
+**Canard** is an app developed for **MLSC's flagship event** to track user performance, provide real-time announcements, and enhance event engagement.
 
-## Getting Started
+## ⭑ Features ⭑
+× **Real-Time Performance Tracking:** Percentage indicators update dynamically via WebSockets.  
+× **Live Announcements & Notifications:** Stay updated instantly.  
+× **Smooth Animations:** Integrated **Lottie files** for an enhanced UI experience.  
+× **Login/Signup System:** Implemented using **SharedPreferences** for authentication.  
+× **Backend Integration:** Connected via **HTTP package** and **WebSockets** for real-time communication.
 
-This project is a starting point for a Flutter application.
+## ⭑ Screenshots ⭑
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/401dcecb-8b49-4af1-aa97-cc69e486129e" height="500px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/20fcffd7-5812-4497-b11f-0ade13a791af" height="500px">
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⭑ Tech Stack ⭑
+× **Frontend:** Flutter  
+× **Backend Communication:** HTTP package & WebSockets  
+× **Local Storage:** SharedPreferences  
+× **Animations:** Lottie  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⭑ License ⭑
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
+
+⟿⟿⟿⟿⟿⟿⟿⟿⟿⟿⟿⟿⟿⟿⟿⟿
+Developed for **MLSC's Flagship Event**
